@@ -19,9 +19,15 @@
         },
         {
             "name": "In each year I fell in love for one month",
-            "nickname": "12",
+            "nickname": "kiki",
             "description": "Nong Kon Nun Na Ruk Mak",
             "price": 40
+        },
+        {
+            "name": "Double Chocolate",
+            "nickname": "ENV",
+            "description": "ENV make forest grow",
+            "price": 45
         }
     ]
 }
