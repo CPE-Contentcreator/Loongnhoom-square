@@ -29,6 +29,12 @@
             "nickname": "ENV",
             "description": "ENV make forest grow",
             "price": 45
+        }, 
+        { 
+            "name": "Green Tea Frozan",
+            "nickname": "MTH",
+            "description": "MTH make forest grow",
+            "price": 45
         }
     ]
 }
